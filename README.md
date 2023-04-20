@@ -10,4 +10,4 @@ As a software developer, it's crucial to understand and interpret user needs in 
 
 ### How do I approach designing software?
 
-h
+I approach designing software by first thoroughly understanding the requirements and desired functionality of the program, and then begin deciding the best way to implement. If the requirements have been collected correctly and are thorough enough, sometimes the best possible answer arises from common sense. If the right approach is object oriented, then models can be created to outline the necessary objects and functions that they should be capable of, which should be simple enough to translate into code. After this, encapsulation and polymorphism should be taken into account to keep the software maintainable, modular, scalable, reusable, and efficient. Any additional features that might be useful can be discovered and implemented during testing, and hopefully there will be regular meetings and checkpoints with stakeholders to decide best next steps and any features they like, dislike, or want changed.
